@@ -2,7 +2,7 @@ def addition(num1, num2)
     return num1+num2
     num1 =5
     num2 = 4
-    (addition(5,4)).to 
+    (addition(5,4))
 end
 
 def subtraction(num1, num2)
