@@ -1,5 +1,6 @@
 def addition(num1, num2)
-puts "Enter "
+puts "Enter a number:"
+num1 = gets.choomp().options_from_collection_for_select
 end
 
 def subtraction(num1, num2)
